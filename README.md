@@ -16,12 +16,5 @@ EmailBot is a versatile email automation tool designed to simplify and streamlin
 
 ## Getting Started
 
-To get started with EmailBot, follow these steps:
-
-1. Clone this repository to your local machine.
-2. Install the required dependencies by running `npm install`.
-3. Configure your email provider settings in the `config.js` file.
-4. Run the application using `npm start`.
-5. Access the EmailBot dashboard in your web browser at `http://localhost:3000`.
 
 
